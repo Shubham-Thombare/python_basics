@@ -1,2 +1,2 @@
 # Python Programming Language
-going to do the mastery in the field I will choose
+going to be the master in the tech field..
