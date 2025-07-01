@@ -1,2 +1,2 @@
-# python_basics
-my first python programs
+# Python Programming Language
+going to be the master in the tech field..
